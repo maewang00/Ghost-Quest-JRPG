@@ -51,6 +51,9 @@ public class Character : MonoBehaviour
         _health = _healthMax;
         _mana = _manaMax;
         RestoreStats();
+        // Makes sure that this object isn't destroyed on load.
+        // NOTE: This script should persist even if our animations change since our stats shouldn't reset until we want them to.
+        DontDestroyOnLoad(gameObject);
     }
 
     // Update is called once per frame
