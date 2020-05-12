@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Interactable
+  - UI Manager
+  - AudioManager
+  - DialogueManager
+  - Danger Area
+  - Exit
+  - CustomEventManager
   layers:
   - Default
   - TransparentFX
@@ -13,9 +20,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Camera Boundary
+  - Player
+  - Interactable
   - 
   - 
   - 
@@ -40,4 +47,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 897229385
+    locked: 0
+  - name: Midground
+    uniqueID: 1550760385
+    locked: 0
+  - name: Player
+    uniqueID: 4108656135
+    locked: 0
+  - name: Foreground
+    uniqueID: 3145384385
     locked: 0

@@ -1,0 +1,579 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Placeholder tiles
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+    totalSpriteSurfaceArea: 17728
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: e4033d9c58d3c5ed204c788215c6549a
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 2187511794286274393, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4014428445087851321, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5746634444216482063, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7770140281398193579, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -6197863426054010698, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7779311094135141229, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6349066473405154758, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6553013336049437223, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7334846121465996249, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3568256736517291280, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -610732832117002381, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7672671759152916381, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3746159431725786414, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3542974716737217153, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3947906462378882775, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3280727876631131929, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8083577861765994065, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5021932421227907693, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8589327083117867701, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1506176744636508557, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4399244827542894789, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3235467772063980686, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 672094202408196816, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1907792420098069012, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8557035916079023141, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1506876058400639859, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8869340802051811464, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7965259973388747401, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6921438669908286158, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4766375513430022569, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -9127042897888001181, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2659378629650805747, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1928416560381265778, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5426599792810873182, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 416539362465433246, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1754130222487703319, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 2187999773220963860, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4558831707948651742, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -6853391801481886027, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4506942393812667797, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -6965747101944645505, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3415614491824085340, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -821198135197912241, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3363890205768109481, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 336481057748367541, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7396222023640604161, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5455343529224707707, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -915249256534519140, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7527371560975363907, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1819062122128731189, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4284843909872892230, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3816726267581283966, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8605475864125919912, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7730812203552457762, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -299979735472401003, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -6252602478360912016, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3885201096551341369, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8871799768145122363, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 9050141322833814372, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -9184068446617822537, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8474321429077085253, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 2449392212969604438, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1413371372975036218, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -939310731208015727, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8638748456950675432, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8199986897272334581, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -9210672075763037592, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5681766262630065334, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -180086545680577544, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8812050450395955520, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 2679340415543834863, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 2468713900829561030, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5582186050776960517, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -6609618102353039165, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4911565212379761714, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 2352016101809672061, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 329417363900418442, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8165219380074027300, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5027994022440704639, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8631950430792126748, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1635073323738885634, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3298700018012258109, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7211519471844933137, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7691527474318256078, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4516189032841667080, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5046435239397579504, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4638690144159951887, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7359758673509820986, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8353871351986562732, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 193519878000218065, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7078619832689598145, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3919647082679410615, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4682031719530734563, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5545484138133270653, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2569553452049665429, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8513401261566185674, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3397132285356523742, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3127983089623562612, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3653505981117718492, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5324638742244545597, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4932989463724298729, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 9187558532276252228, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8681153560625877468, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -6583619053790558722, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8519527898176216973, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6585704292649398315, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -249166452499896306, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3310113355966214332, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3400166980408008887, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4648354046403326808, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -6268583865756960293, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5084443064953740812, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1695905458693918756, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7346205266106964795, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3865774179731269846, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3149712659896946615, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3830147427080055015, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5786790951266524026, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3524749883692262262, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5381354410516738664, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8548087788118253001, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8754391802752968058, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8641831325224996182, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -6970712068317689477, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7922539322970044609, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7647196475377364659, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5515412531976499307, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8979651412948632136, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5011406140929757314, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4236305173016155208, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3125774428749695972, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6135582799408569594, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1761087024015374995, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6717892112231660588, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -719396003956829333, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3336467630303337100, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5715934700875851853, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7354268704916392350, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 524344858816325806, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4328218733576457042, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3147034107713966608, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 9165952016654382173, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8641857455399627436, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 996589537002387390, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4659454932178209783, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1427270797856463504, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1514880203708752630, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3886591659710354858, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8014452135521474844, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8000481181275887003, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5861484227876939574, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5102201926332772224, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4557159692305091987, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6044334162314054154, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4866108998605977576, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8031606256692883397, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5014404187295572273, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3944346789447541613, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3536154838812114346, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5246921301178551530, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5206419663899433396, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1834213044150234639, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6603319451272025334, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 9201251405216687213, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5541624472130835443, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1235246842579239021, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1237178212536476179, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2856674888450706862, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8588445521964627002, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3863437220539933901, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5253559428197936632, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5425079093278066107, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2494850687758204871, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1063630362797509871, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8826688001471137823, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8647861763239259073, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8217551518590361449, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -561770074042609409, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8001439540556174543, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -875742015463071036, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5678144301252078784, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7819845036914956444, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5302087781917201079, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -952956544375614917, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6424138459785767863, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7131346993968304385, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8218498913716729927, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4067903823475095218, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -9206271942371674887, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2132633697326495350, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2741929150129872174, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4594637828516425363, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8785762860394127402, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1536001228463092538, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -299719433320173228, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -9193857358624086587, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 207259036296435972, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3259249680479386821, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8820942635626186202, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -575940030332892502, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8716689162830229243, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4425147027880657577, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 406461467594940966, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -9012415442237119893, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 7182369463891907218, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1247055530952922478, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5182002631898876682, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -9031722382828666072, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5718524836696780811, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 591012990685803986, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4511779790447182584, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5683070510603061517, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 882901016730001548, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4259336513297168836, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4359815775040216276, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4427317684277509936, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6448259852520298057, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4460221104449075765, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3287003777629415001, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2549957730990069321, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2929496950663449207, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6169279037380278889, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4023407192405739770, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8079205681068153042, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4574193856270382516, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -7372574008298125956, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5859743608582411585, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -119383631648450766, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 2453867091414631843, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3452554355188491996, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6043853869858310023, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 426135631475052669, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4892271147398787212, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2835248065042125322, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1854233235145185259, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 3794705817101325580, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1277023448213212915, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1343848389140650645, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 764845359080658089, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 8007567405861351493, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1929844908901226917, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 2735192121362639772, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8253256361586314814, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4516947056216173872, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8566570116320937067, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -8657726704704711910, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1177096902685500407, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 997764498432474088, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 5396067852914635757, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -2092324716981448528, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -3518754570878015898, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -1790330283677173331, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 2034860508940874873, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -6357641312397928019, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1005968905822848037, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4324903461937955402, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 1920469824527467465, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 6235609089319156755, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -5392983998140502423, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 652487213622655634, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: 4688031274856860853, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  - {fileID: -4274225637954122981, guid: 49d9f704965e843a4b1a18112ab68179, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 8x8 fantasytiles - angel opengameart_44
+  - 8x8 fantasytiles - angel opengameart_45
+  - 8x8 fantasytiles - angel opengameart_59
+  - 8x8 fantasytiles - angel opengameart_46
+  - 8x8 fantasytiles - angel opengameart_58
+  - 8x8 fantasytiles - angel opengameart_47
+  - 8x8 fantasytiles - angel opengameart_57
+  - 8x8 fantasytiles - angel opengameart_40
+  - 8x8 fantasytiles - angel opengameart_56
+  - 8x8 fantasytiles - angel opengameart_41
+  - 8x8 fantasytiles - angel opengameart_55
+  - 8x8 fantasytiles - angel opengameart_42
+  - 8x8 fantasytiles - angel opengameart_54
+  - 8x8 fantasytiles - angel opengameart_43
+  - 8x8 fantasytiles - angel opengameart_53
+  - 8x8 fantasytiles - angel opengameart_52
+  - 8x8 fantasytiles - angel opengameart_51
+  - 8x8 fantasytiles - angel opengameart_50
+  - 8x8 fantasytiles - angel opengameart_0
+  - 8x8 fantasytiles - angel opengameart_1
+  - 8x8 fantasytiles - angel opengameart_2
+  - 8x8 fantasytiles - angel opengameart_3
+  - 8x8 fantasytiles - angel opengameart_4
+  - 8x8 fantasytiles - angel opengameart_5
+  - 8x8 fantasytiles - angel opengameart_6
+  - 8x8 fantasytiles - angel opengameart_7
+  - 8x8 fantasytiles - angel opengameart_8
+  - 8x8 fantasytiles - angel opengameart_9
+  - 8x8 fantasytiles - angel opengameart_246
+  - 8x8 fantasytiles - angel opengameart_247
+  - 8x8 fantasytiles - angel opengameart_244
+  - 8x8 fantasytiles - angel opengameart_245
+  - 8x8 fantasytiles - angel opengameart_259
+  - 8x8 fantasytiles - angel opengameart_242
+  - 8x8 fantasytiles - angel opengameart_258
+  - 8x8 fantasytiles - angel opengameart_243
+  - 8x8 fantasytiles - angel opengameart_240
+  - 8x8 fantasytiles - angel opengameart_241
+  - 8x8 fantasytiles - angel opengameart_228
+  - 8x8 fantasytiles - angel opengameart_251
+  - 8x8 fantasytiles - angel opengameart_229
+  - 8x8 fantasytiles - angel opengameart_250
+  - 8x8 fantasytiles - angel opengameart_253
+  - 8x8 fantasytiles - angel opengameart_248
+  - 8x8 fantasytiles - angel opengameart_252
+  - 8x8 fantasytiles - angel opengameart_224
+  - 8x8 fantasytiles - angel opengameart_181
+  - 8x8 fantasytiles - angel opengameart_249
+  - 8x8 fantasytiles - angel opengameart_255
+  - 8x8 fantasytiles - angel opengameart_225
+  - 8x8 fantasytiles - angel opengameart_180
+  - 8x8 fantasytiles - angel opengameart_254
+  - 8x8 fantasytiles - angel opengameart_226
+  - 8x8 fantasytiles - angel opengameart_183
+  - 8x8 fantasytiles - angel opengameart_257
+  - 8x8 fantasytiles - angel opengameart_227
+  - 8x8 fantasytiles - angel opengameart_182
+  - 8x8 fantasytiles - angel opengameart_256
+  - 8x8 fantasytiles - angel opengameart_220
+  - 8x8 fantasytiles - angel opengameart_185
+  - 8x8 fantasytiles - angel opengameart_221
+  - 8x8 fantasytiles - angel opengameart_116
+  - 8x8 fantasytiles - angel opengameart_184
+  - 8x8 fantasytiles - angel opengameart_222
+  - 8x8 fantasytiles - angel opengameart_117
+  - 8x8 fantasytiles - angel opengameart_187
+  - 8x8 fantasytiles - angel opengameart_223
+  - 8x8 fantasytiles - angel opengameart_114
+  - 8x8 fantasytiles - angel opengameart_186
+  - 8x8 fantasytiles - angel opengameart_115
+  - 8x8 fantasytiles - angel opengameart_109
+  - 8x8 fantasytiles - angel opengameart_189
+  - 8x8 fantasytiles - angel opengameart_112
+  - 8x8 fantasytiles - angel opengameart_108
+  - 8x8 fantasytiles - angel opengameart_188
+  - 8x8 fantasytiles - angel opengameart_113
+  - 8x8 fantasytiles - angel opengameart_110
+  - 8x8 fantasytiles - angel opengameart_111
+  - 8x8 fantasytiles - angel opengameart_178
+  - 8x8 fantasytiles - angel opengameart_101
+  - 8x8 fantasytiles - angel opengameart_179
+  - 8x8 fantasytiles - angel opengameart_100
+  - 8x8 fantasytiles - angel opengameart_103
+  - 8x8 fantasytiles - angel opengameart_118
+  - 8x8 fantasytiles - angel opengameart_102
+  - 8x8 fantasytiles - angel opengameart_174
+  - 8x8 fantasytiles - angel opengameart_198
+  - 8x8 fantasytiles - angel opengameart_119
+  - 8x8 fantasytiles - angel opengameart_105
+  - 8x8 fantasytiles - angel opengameart_175
+  - 8x8 fantasytiles - angel opengameart_169
+  - 8x8 fantasytiles - angel opengameart_199
+  - 8x8 fantasytiles - angel opengameart_104
+  - 8x8 fantasytiles - angel opengameart_176
+  - 8x8 fantasytiles - angel opengameart_168
+  - 8x8 fantasytiles - angel opengameart_196
+  - 8x8 fantasytiles - angel opengameart_107
+  - 8x8 fantasytiles - angel opengameart_177
+  - 8x8 fantasytiles - angel opengameart_167
+  - 8x8 fantasytiles - angel opengameart_197
+  - 8x8 fantasytiles - angel opengameart_106
+  - 8x8 fantasytiles - angel opengameart_170
+  - 8x8 fantasytiles - angel opengameart_166
+  - 8x8 fantasytiles - angel opengameart_194
+  - 8x8 fantasytiles - angel opengameart_171
+  - 8x8 fantasytiles - angel opengameart_165
+  - 8x8 fantasytiles - angel opengameart_195
+  - 8x8 fantasytiles - angel opengameart_172
+  - 8x8 fantasytiles - angel opengameart_164
+  - 8x8 fantasytiles - angel opengameart_192
+  - 8x8 fantasytiles - angel opengameart_173
+  - 8x8 fantasytiles - angel opengameart_163
+  - 8x8 fantasytiles - angel opengameart_193
+  - 8x8 fantasytiles - angel opengameart_162
+  - 8x8 fantasytiles - angel opengameart_190
+  - 8x8 fantasytiles - angel opengameart_161
+  - 8x8 fantasytiles - angel opengameart_191
+  - 8x8 fantasytiles - angel opengameart_160
+  - 8x8 fantasytiles - angel opengameart_13
+  - 8x8 fantasytiles - angel opengameart_12
+  - 8x8 fantasytiles - angel opengameart_11
+  - 8x8 fantasytiles - angel opengameart_75
+  - 8x8 fantasytiles - angel opengameart_10
+  - 8x8 fantasytiles - angel opengameart_26
+  - 8x8 fantasytiles - angel opengameart_74
+  - 8x8 fantasytiles - angel opengameart_17
+  - 8x8 fantasytiles - angel opengameart_27
+  - 8x8 fantasytiles - angel opengameart_77
+  - 8x8 fantasytiles - angel opengameart_16
+  - 8x8 fantasytiles - angel opengameart_24
+  - 8x8 fantasytiles - angel opengameart_76
+  - 8x8 fantasytiles - angel opengameart_88
+  - 8x8 fantasytiles - angel opengameart_15
+  - 8x8 fantasytiles - angel opengameart_25
+  - 8x8 fantasytiles - angel opengameart_39
+  - 8x8 fantasytiles - angel opengameart_71
+  - 8x8 fantasytiles - angel opengameart_89
+  - 8x8 fantasytiles - angel opengameart_14
+  - 8x8 fantasytiles - angel opengameart_22
+  - 8x8 fantasytiles - angel opengameart_38
+  - 8x8 fantasytiles - angel opengameart_70
+  - 8x8 fantasytiles - angel opengameart_23
+  - 8x8 fantasytiles - angel opengameart_73
+  - 8x8 fantasytiles - angel opengameart_20
+  - 8x8 fantasytiles - angel opengameart_72
+  - 8x8 fantasytiles - angel opengameart_19
+  - 8x8 fantasytiles - angel opengameart_21
+  - 8x8 fantasytiles - angel opengameart_99
+  - 8x8 fantasytiles - angel opengameart_18
+  - 8x8 fantasytiles - angel opengameart_98
+  - 8x8 fantasytiles - angel opengameart_80
+  - 8x8 fantasytiles - angel opengameart_31
+  - 8x8 fantasytiles - angel opengameart_79
+  - 8x8 fantasytiles - angel opengameart_81
+  - 8x8 fantasytiles - angel opengameart_30
+  - 8x8 fantasytiles - angel opengameart_78
+  - 8x8 fantasytiles - angel opengameart_82
+  - 8x8 fantasytiles - angel opengameart_33
+  - 8x8 fantasytiles - angel opengameart_83
+  - 8x8 fantasytiles - angel opengameart_93
+  - 8x8 fantasytiles - angel opengameart_28
+  - 8x8 fantasytiles - angel opengameart_32
+  - 8x8 fantasytiles - angel opengameart_84
+  - 8x8 fantasytiles - angel opengameart_92
+  - 8x8 fantasytiles - angel opengameart_29
+  - 8x8 fantasytiles - angel opengameart_35
+  - 8x8 fantasytiles - angel opengameart_85
+  - 8x8 fantasytiles - angel opengameart_91
+  - 8x8 fantasytiles - angel opengameart_34
+  - 8x8 fantasytiles - angel opengameart_86
+  - 8x8 fantasytiles - angel opengameart_90
+  - 8x8 fantasytiles - angel opengameart_37
+  - 8x8 fantasytiles - angel opengameart_87
+  - 8x8 fantasytiles - angel opengameart_97
+  - 8x8 fantasytiles - angel opengameart_36
+  - 8x8 fantasytiles - angel opengameart_96
+  - 8x8 fantasytiles - angel opengameart_95
+  - 8x8 fantasytiles - angel opengameart_94
+  - 8x8 fantasytiles - angel opengameart_260
+  - 8x8 fantasytiles - angel opengameart_261
+  - 8x8 fantasytiles - angel opengameart_202
+  - 8x8 fantasytiles - angel opengameart_203
+  - 8x8 fantasytiles - angel opengameart_200
+  - 8x8 fantasytiles - angel opengameart_201
+  - 8x8 fantasytiles - angel opengameart_215
+  - 8x8 fantasytiles - angel opengameart_206
+  - 8x8 fantasytiles - angel opengameart_214
+  - 8x8 fantasytiles - angel opengameart_207
+  - 8x8 fantasytiles - angel opengameart_217
+  - 8x8 fantasytiles - angel opengameart_204
+  - 8x8 fantasytiles - angel opengameart_216
+  - 8x8 fantasytiles - angel opengameart_205
+  - 8x8 fantasytiles - angel opengameart_211
+  - 8x8 fantasytiles - angel opengameart_210
+  - 8x8 fantasytiles - angel opengameart_213
+  - 8x8 fantasytiles - angel opengameart_208
+  - 8x8 fantasytiles - angel opengameart_212
+  - 8x8 fantasytiles - angel opengameart_209
+  - 8x8 fantasytiles - angel opengameart_219
+  - 8x8 fantasytiles - angel opengameart_218
+  - 8x8 fantasytiles - angel opengameart_130
+  - 8x8 fantasytiles - angel opengameart_131
+  - 8x8 fantasytiles - angel opengameart_239
+  - 8x8 fantasytiles - angel opengameart_132
+  - 8x8 fantasytiles - angel opengameart_152
+  - 8x8 fantasytiles - angel opengameart_238
+  - 8x8 fantasytiles - angel opengameart_133
+  - 8x8 fantasytiles - angel opengameart_123
+  - 8x8 fantasytiles - angel opengameart_153
+  - 8x8 fantasytiles - angel opengameart_237
+  - 8x8 fantasytiles - angel opengameart_134
+  - 8x8 fantasytiles - angel opengameart_122
+  - 8x8 fantasytiles - angel opengameart_150
+  - 8x8 fantasytiles - angel opengameart_236
+  - 8x8 fantasytiles - angel opengameart_135
+  - 8x8 fantasytiles - angel opengameart_121
+  - 8x8 fantasytiles - angel opengameart_151
+  - 8x8 fantasytiles - angel opengameart_145
+  - 8x8 fantasytiles - angel opengameart_235
+  - 8x8 fantasytiles - angel opengameart_136
+  - 8x8 fantasytiles - angel opengameart_120
+  - 8x8 fantasytiles - angel opengameart_156
+  - 8x8 fantasytiles - angel opengameart_144
+  - 8x8 fantasytiles - angel opengameart_234
+  - 8x8 fantasytiles - angel opengameart_137
+  - 8x8 fantasytiles - angel opengameart_127
+  - 8x8 fantasytiles - angel opengameart_157
+  - 8x8 fantasytiles - angel opengameart_147
+  - 8x8 fantasytiles - angel opengameart_233
+  - 8x8 fantasytiles - angel opengameart_138
+  - 8x8 fantasytiles - angel opengameart_126
+  - 8x8 fantasytiles - angel opengameart_154
+  - 8x8 fantasytiles - angel opengameart_146
+  - 8x8 fantasytiles - angel opengameart_232
+  - 8x8 fantasytiles - angel opengameart_139
+  - 8x8 fantasytiles - angel opengameart_125
+  - 8x8 fantasytiles - angel opengameart_155
+  - 8x8 fantasytiles - angel opengameart_141
+  - 8x8 fantasytiles - angel opengameart_231
+  - 8x8 fantasytiles - angel opengameart_124
+  - 8x8 fantasytiles - angel opengameart_140
+  - 8x8 fantasytiles - angel opengameart_230
+  - 8x8 fantasytiles - angel opengameart_143
+  - 8x8 fantasytiles - angel opengameart_158
+  - 8x8 fantasytiles - angel opengameart_142
+  - 8x8 fantasytiles - angel opengameart_129
+  - 8x8 fantasytiles - angel opengameart_159
+  - 8x8 fantasytiles - angel opengameart_128
+  - 8x8 fantasytiles - angel opengameart_149
+  - 8x8 fantasytiles - angel opengameart_148
+  - 8x8 fantasytiles - angel opengameart_62
+  - 8x8 fantasytiles - angel opengameart_63
+  - 8x8 fantasytiles - angel opengameart_60
+  - 8x8 fantasytiles - angel opengameart_61
+  - 8x8 fantasytiles - angel opengameart_66
+  - 8x8 fantasytiles - angel opengameart_67
+  - 8x8 fantasytiles - angel opengameart_64
+  - 8x8 fantasytiles - angel opengameart_65
+  - 8x8 fantasytiles - angel opengameart_68
+  - 8x8 fantasytiles - angel opengameart_69
+  - 8x8 fantasytiles - angel opengameart_48
+  - 8x8 fantasytiles - angel opengameart_49
+  m_Tag: Placeholder tiles
+  m_IsVariant: 0

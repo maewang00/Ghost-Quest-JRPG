@@ -1,0 +1,6391 @@
+fileFormatVersion: 2
+guid: 49d9f704965e843a4b1a18112ab68179
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8589327083117867701
+    second: 8x8 fantasytiles - angel opengameart_0
+  - first:
+      213: -1506176744636508557
+    second: 8x8 fantasytiles - angel opengameart_1
+  - first:
+      213: 4399244827542894789
+    second: 8x8 fantasytiles - angel opengameart_2
+  - first:
+      213: 3235467772063980686
+    second: 8x8 fantasytiles - angel opengameart_3
+  - first:
+      213: 672094202408196816
+    second: 8x8 fantasytiles - angel opengameart_4
+  - first:
+      213: -1907792420098069012
+    second: 8x8 fantasytiles - angel opengameart_5
+  - first:
+      213: 8557035916079023141
+    second: 8x8 fantasytiles - angel opengameart_6
+  - first:
+      213: -1506876058400639859
+    second: 8x8 fantasytiles - angel opengameart_7
+  - first:
+      213: 8869340802051811464
+    second: 8x8 fantasytiles - angel opengameart_8
+  - first:
+      213: 7965259973388747401
+    second: 8x8 fantasytiles - angel opengameart_9
+  - first:
+      213: -8641831325224996182
+    second: 8x8 fantasytiles - angel opengameart_10
+  - first:
+      213: 8548087788118253001
+    second: 8x8 fantasytiles - angel opengameart_11
+  - first:
+      213: -5381354410516738664
+    second: 8x8 fantasytiles - angel opengameart_12
+  - first:
+      213: -3524749883692262262
+    second: 8x8 fantasytiles - angel opengameart_13
+  - first:
+      213: 7354268704916392350
+    second: 8x8 fantasytiles - angel opengameart_14
+  - first:
+      213: -1761087024015374995
+    second: 8x8 fantasytiles - angel opengameart_15
+  - first:
+      213: -5011406140929757314
+    second: 8x8 fantasytiles - angel opengameart_16
+  - first:
+      213: -7647196475377364659
+    second: 8x8 fantasytiles - angel opengameart_17
+  - first:
+      213: 8014452135521474844
+    second: 8x8 fantasytiles - angel opengameart_18
+  - first:
+      213: 1427270797856463504
+    second: 8x8 fantasytiles - angel opengameart_19
+  - first:
+      213: 996589537002387390
+    second: 8x8 fantasytiles - angel opengameart_20
+  - first:
+      213: 1514880203708752630
+    second: 8x8 fantasytiles - angel opengameart_21
+  - first:
+      213: 524344858816325806
+    second: 8x8 fantasytiles - angel opengameart_22
+  - first:
+      213: 9165952016654382173
+    second: 8x8 fantasytiles - angel opengameart_23
+  - first:
+      213: 4236305173016155208
+    second: 8x8 fantasytiles - angel opengameart_24
+  - first:
+      213: 6717892112231660588
+    second: 8x8 fantasytiles - angel opengameart_25
+  - first:
+      213: -6970712068317689477
+    second: 8x8 fantasytiles - angel opengameart_26
+  - first:
+      213: -5515412531976499307
+    second: 8x8 fantasytiles - angel opengameart_27
+  - first:
+      213: -5206419663899433396
+    second: 8x8 fantasytiles - angel opengameart_28
+  - first:
+      213: -5541624472130835443
+    second: 8x8 fantasytiles - angel opengameart_29
+  - first:
+      213: 4866108998605977576
+    second: 8x8 fantasytiles - angel opengameart_30
+  - first:
+      213: 5102201926332772224
+    second: 8x8 fantasytiles - angel opengameart_31
+  - first:
+      213: -1834213044150234639
+    second: 8x8 fantasytiles - angel opengameart_32
+  - first:
+      213: -3944346789447541613
+    second: 8x8 fantasytiles - angel opengameart_33
+  - first:
+      213: 8588445521964627002
+    second: 8x8 fantasytiles - angel opengameart_34
+  - first:
+      213: -1235246842579239021
+    second: 8x8 fantasytiles - angel opengameart_35
+  - first:
+      213: -8826688001471137823
+    second: 8x8 fantasytiles - angel opengameart_36
+  - first:
+      213: 5425079093278066107
+    second: 8x8 fantasytiles - angel opengameart_37
+  - first:
+      213: -4328218733576457042
+    second: 8x8 fantasytiles - angel opengameart_38
+  - first:
+      213: -719396003956829333
+    second: 8x8 fantasytiles - angel opengameart_39
+  - first:
+      213: 6553013336049437223
+    second: 8x8 fantasytiles - angel opengameart_40
+  - first:
+      213: -3568256736517291280
+    second: 8x8 fantasytiles - angel opengameart_41
+  - first:
+      213: 7672671759152916381
+    second: 8x8 fantasytiles - angel opengameart_42
+  - first:
+      213: -3542974716737217153
+    second: 8x8 fantasytiles - angel opengameart_43
+  - first:
+      213: 2187511794286274393
+    second: 8x8 fantasytiles - angel opengameart_44
+  - first:
+      213: -4014428445087851321
+    second: 8x8 fantasytiles - angel opengameart_45
+  - first:
+      213: -7770140281398193579
+    second: 8x8 fantasytiles - angel opengameart_46
+  - first:
+      213: 7779311094135141229
+    second: 8x8 fantasytiles - angel opengameart_47
+  - first:
+      213: 4688031274856860853
+    second: 8x8 fantasytiles - angel opengameart_48
+  - first:
+      213: -4274225637954122981
+    second: 8x8 fantasytiles - angel opengameart_49
+  - first:
+      213: -5021932421227907693
+    second: 8x8 fantasytiles - angel opengameart_50
+  - first:
+      213: 8083577861765994065
+    second: 8x8 fantasytiles - angel opengameart_51
+  - first:
+      213: 3280727876631131929
+    second: 8x8 fantasytiles - angel opengameart_52
+  - first:
+      213: 3947906462378882775
+    second: 8x8 fantasytiles - angel opengameart_53
+  - first:
+      213: -3746159431725786414
+    second: 8x8 fantasytiles - angel opengameart_54
+  - first:
+      213: -610732832117002381
+    second: 8x8 fantasytiles - angel opengameart_55
+  - first:
+      213: 7334846121465996249
+    second: 8x8 fantasytiles - angel opengameart_56
+  - first:
+      213: 6349066473405154758
+    second: 8x8 fantasytiles - angel opengameart_57
+  - first:
+      213: -6197863426054010698
+    second: 8x8 fantasytiles - angel opengameart_58
+  - first:
+      213: 5746634444216482063
+    second: 8x8 fantasytiles - angel opengameart_59
+  - first:
+      213: 2034860508940874873
+    second: 8x8 fantasytiles - angel opengameart_60
+  - first:
+      213: -6357641312397928019
+    second: 8x8 fantasytiles - angel opengameart_61
+  - first:
+      213: -3518754570878015898
+    second: 8x8 fantasytiles - angel opengameart_62
+  - first:
+      213: -1790330283677173331
+    second: 8x8 fantasytiles - angel opengameart_63
+  - first:
+      213: 1920469824527467465
+    second: 8x8 fantasytiles - angel opengameart_64
+  - first:
+      213: 6235609089319156755
+    second: 8x8 fantasytiles - angel opengameart_65
+  - first:
+      213: 1005968905822848037
+    second: 8x8 fantasytiles - angel opengameart_66
+  - first:
+      213: 4324903461937955402
+    second: 8x8 fantasytiles - angel opengameart_67
+  - first:
+      213: -5392983998140502423
+    second: 8x8 fantasytiles - angel opengameart_68
+  - first:
+      213: 652487213622655634
+    second: 8x8 fantasytiles - angel opengameart_69
+  - first:
+      213: 3147034107713966608
+    second: 8x8 fantasytiles - angel opengameart_70
+  - first:
+      213: -3336467630303337100
+    second: 8x8 fantasytiles - angel opengameart_71
+  - first:
+      213: -4659454932178209783
+    second: 8x8 fantasytiles - angel opengameart_72
+  - first:
+      213: 8641857455399627436
+    second: 8x8 fantasytiles - angel opengameart_73
+  - first:
+      213: 7922539322970044609
+    second: 8x8 fantasytiles - angel opengameart_74
+  - first:
+      213: -8754391802752968058
+    second: 8x8 fantasytiles - angel opengameart_75
+  - first:
+      213: -3125774428749695972
+    second: 8x8 fantasytiles - angel opengameart_76
+  - first:
+      213: -8979651412948632136
+    second: 8x8 fantasytiles - angel opengameart_77
+  - first:
+      213: -8031606256692883397
+    second: 8x8 fantasytiles - angel opengameart_78
+  - first:
+      213: -4557159692305091987
+    second: 8x8 fantasytiles - angel opengameart_79
+  - first:
+      213: 5861484227876939574
+    second: 8x8 fantasytiles - angel opengameart_80
+  - first:
+      213: 6044334162314054154
+    second: 8x8 fantasytiles - angel opengameart_81
+  - first:
+      213: -5014404187295572273
+    second: 8x8 fantasytiles - angel opengameart_82
+  - first:
+      213: 3536154838812114346
+    second: 8x8 fantasytiles - angel opengameart_83
+  - first:
+      213: 6603319451272025334
+    second: 8x8 fantasytiles - angel opengameart_84
+  - first:
+      213: 1237178212536476179
+    second: 8x8 fantasytiles - angel opengameart_85
+  - first:
+      213: -3863437220539933901
+    second: 8x8 fantasytiles - angel opengameart_86
+  - first:
+      213: -2494850687758204871
+    second: 8x8 fantasytiles - angel opengameart_87
+  - first:
+      213: 6135582799408569594
+    second: 8x8 fantasytiles - angel opengameart_88
+  - first:
+      213: 5715934700875851853
+    second: 8x8 fantasytiles - angel opengameart_89
+  - first:
+      213: -5253559428197936632
+    second: 8x8 fantasytiles - angel opengameart_90
+  - first:
+      213: -2856674888450706862
+    second: 8x8 fantasytiles - angel opengameart_91
+  - first:
+      213: 9201251405216687213
+    second: 8x8 fantasytiles - angel opengameart_92
+  - first:
+      213: -5246921301178551530
+    second: 8x8 fantasytiles - angel opengameart_93
+  - first:
+      213: -561770074042609409
+    second: 8x8 fantasytiles - angel opengameart_94
+  - first:
+      213: 8217551518590361449
+    second: 8x8 fantasytiles - angel opengameart_95
+  - first:
+      213: 8647861763239259073
+    second: 8x8 fantasytiles - angel opengameart_96
+  - first:
+      213: -1063630362797509871
+    second: 8x8 fantasytiles - angel opengameart_97
+  - first:
+      213: -8000481181275887003
+    second: 8x8 fantasytiles - angel opengameart_98
+  - first:
+      213: 3886591659710354858
+    second: 8x8 fantasytiles - angel opengameart_99
+  - first:
+      213: 3298700018012258109
+    second: 8x8 fantasytiles - angel opengameart_100
+  - first:
+      213: 8631950430792126748
+    second: 8x8 fantasytiles - angel opengameart_101
+  - first:
+      213: 4516189032841667080
+    second: 8x8 fantasytiles - angel opengameart_102
+  - first:
+      213: -7211519471844933137
+    second: 8x8 fantasytiles - angel opengameart_103
+  - first:
+      213: 4682031719530734563
+    second: 8x8 fantasytiles - angel opengameart_104
+  - first:
+      213: 8353871351986562732
+    second: 8x8 fantasytiles - angel opengameart_105
+  - first:
+      213: 4932989463724298729
+    second: 8x8 fantasytiles - angel opengameart_106
+  - first:
+      213: 3397132285356523742
+    second: 8x8 fantasytiles - angel opengameart_107
+  - first:
+      213: -6609618102353039165
+    second: 8x8 fantasytiles - angel opengameart_108
+  - first:
+      213: 2679340415543834863
+    second: 8x8 fantasytiles - angel opengameart_109
+  - first:
+      213: 329417363900418442
+    second: 8x8 fantasytiles - angel opengameart_110
+  - first:
+      213: 8165219380074027300
+    second: 8x8 fantasytiles - angel opengameart_111
+  - first:
+      213: -5582186050776960517
+    second: 8x8 fantasytiles - angel opengameart_112
+  - first:
+      213: 2352016101809672061
+    second: 8x8 fantasytiles - angel opengameart_113
+  - first:
+      213: -5681766262630065334
+    second: 8x8 fantasytiles - angel opengameart_114
+  - first:
+      213: -8812050450395955520
+    second: 8x8 fantasytiles - angel opengameart_115
+  - first:
+      213: 2449392212969604438
+    second: 8x8 fantasytiles - angel opengameart_116
+  - first:
+      213: 8638748456950675432
+    second: 8x8 fantasytiles - angel opengameart_117
+  - first:
+      213: -7691527474318256078
+    second: 8x8 fantasytiles - angel opengameart_118
+  - first:
+      213: 7359758673509820986
+    second: 8x8 fantasytiles - angel opengameart_119
+  - first:
+      213: -2929496950663449207
+    second: 8x8 fantasytiles - angel opengameart_120
+  - first:
+      213: 4427317684277509936
+    second: 8x8 fantasytiles - angel opengameart_121
+  - first:
+      213: 5683070510603061517
+    second: 8x8 fantasytiles - angel opengameart_122
+  - first:
+      213: -9031722382828666072
+    second: 8x8 fantasytiles - angel opengameart_123
+  - first:
+      213: 8007567405861351493
+    second: 8x8 fantasytiles - angel opengameart_124
+  - first:
+      213: 3794705817101325580
+    second: 8x8 fantasytiles - angel opengameart_125
+  - first:
+      213: 6043853869858310023
+    second: 8x8 fantasytiles - angel opengameart_126
+  - first:
+      213: -7372574008298125956
+    second: 8x8 fantasytiles - angel opengameart_127
+  - first:
+      213: 997764498432474088
+    second: 8x8 fantasytiles - angel opengameart_128
+  - first:
+      213: -8657726704704711910
+    second: 8x8 fantasytiles - angel opengameart_129
+  - first:
+      213: -8716689162830229243
+    second: 8x8 fantasytiles - angel opengameart_130
+  - first:
+      213: -4425147027880657577
+    second: 8x8 fantasytiles - angel opengameart_131
+  - first:
+      213: -9012415442237119893
+    second: 8x8 fantasytiles - angel opengameart_132
+  - first:
+      213: -5182002631898876682
+    second: 8x8 fantasytiles - angel opengameart_133
+  - first:
+      213: 4511779790447182584
+    second: 8x8 fantasytiles - angel opengameart_134
+  - first:
+      213: -4359815775040216276
+    second: 8x8 fantasytiles - angel opengameart_135
+  - first:
+      213: -2549957730990069321
+    second: 8x8 fantasytiles - angel opengameart_136
+  - first:
+      213: -4574193856270382516
+    second: 8x8 fantasytiles - angel opengameart_137
+  - first:
+      213: -3452554355188491996
+    second: 8x8 fantasytiles - angel opengameart_138
+  - first:
+      213: 1854233235145185259
+    second: 8x8 fantasytiles - angel opengameart_139
+  - first:
+      213: 1929844908901226917
+    second: 8x8 fantasytiles - angel opengameart_140
+  - first:
+      213: -1343848389140650645
+    second: 8x8 fantasytiles - angel opengameart_141
+  - first:
+      213: -8566570116320937067
+    second: 8x8 fantasytiles - angel opengameart_142
+  - first:
+      213: -8253256361586314814
+    second: 8x8 fantasytiles - angel opengameart_143
+  - first:
+      213: -4023407192405739770
+    second: 8x8 fantasytiles - angel opengameart_144
+  - first:
+      213: -4460221104449075765
+    second: 8x8 fantasytiles - angel opengameart_145
+  - first:
+      213: 4892271147398787212
+    second: 8x8 fantasytiles - angel opengameart_146
+  - first:
+      213: -119383631648450766
+    second: 8x8 fantasytiles - angel opengameart_147
+  - first:
+      213: -2092324716981448528
+    second: 8x8 fantasytiles - angel opengameart_148
+  - first:
+      213: 5396067852914635757
+    second: 8x8 fantasytiles - angel opengameart_149
+  - first:
+      213: 882901016730001548
+    second: 8x8 fantasytiles - angel opengameart_150
+  - first:
+      213: 6448259852520298057
+    second: 8x8 fantasytiles - angel opengameart_151
+  - first:
+      213: 7182369463891907218
+    second: 8x8 fantasytiles - angel opengameart_152
+  - first:
+      213: -5718524836696780811
+    second: 8x8 fantasytiles - angel opengameart_153
+  - first:
+      213: 426135631475052669
+    second: 8x8 fantasytiles - angel opengameart_154
+  - first:
+      213: -1277023448213212915
+    second: 8x8 fantasytiles - angel opengameart_155
+  - first:
+      213: 6169279037380278889
+    second: 8x8 fantasytiles - angel opengameart_156
+  - first:
+      213: 5859743608582411585
+    second: 8x8 fantasytiles - angel opengameart_157
+  - first:
+      213: -4516947056216173872
+    second: 8x8 fantasytiles - angel opengameart_158
+  - first:
+      213: 1177096902685500407
+    second: 8x8 fantasytiles - angel opengameart_159
+  - first:
+      213: -5786790951266524026
+    second: 8x8 fantasytiles - angel opengameart_160
+  - first:
+      213: 3149712659896946615
+    second: 8x8 fantasytiles - angel opengameart_161
+  - first:
+      213: -7346205266106964795
+    second: 8x8 fantasytiles - angel opengameart_162
+  - first:
+      213: 5084443064953740812
+    second: 8x8 fantasytiles - angel opengameart_163
+  - first:
+      213: 3400166980408008887
+    second: 8x8 fantasytiles - angel opengameart_164
+  - first:
+      213: 6585704292649398315
+    second: 8x8 fantasytiles - angel opengameart_165
+  - first:
+      213: -8681153560625877468
+    second: 8x8 fantasytiles - angel opengameart_166
+  - first:
+      213: -3653505981117718492
+    second: 8x8 fantasytiles - angel opengameart_167
+  - first:
+      213: -2569553452049665429
+    second: 8x8 fantasytiles - angel opengameart_168
+  - first:
+      213: 7078619832689598145
+    second: 8x8 fantasytiles - angel opengameart_169
+  - first:
+      213: 9187558532276252228
+    second: 8x8 fantasytiles - angel opengameart_170
+  - first:
+      213: -8519527898176216973
+    second: 8x8 fantasytiles - angel opengameart_171
+  - first:
+      213: -3310113355966214332
+    second: 8x8 fantasytiles - angel opengameart_172
+  - first:
+      213: -6268583865756960293
+    second: 8x8 fantasytiles - angel opengameart_173
+  - first:
+      213: -5046435239397579504
+    second: 8x8 fantasytiles - angel opengameart_174
+  - first:
+      213: 193519878000218065
+    second: 8x8 fantasytiles - angel opengameart_175
+  - first:
+      213: -5545484138133270653
+    second: 8x8 fantasytiles - angel opengameart_176
+  - first:
+      213: -3127983089623562612
+    second: 8x8 fantasytiles - angel opengameart_177
+  - first:
+      213: 5027994022440704639
+    second: 8x8 fantasytiles - angel opengameart_178
+  - first:
+      213: 1635073323738885634
+    second: 8x8 fantasytiles - angel opengameart_179
+  - first:
+      213: 4284843909872892230
+    second: 8x8 fantasytiles - angel opengameart_180
+  - first:
+      213: 5455343529224707707
+    second: 8x8 fantasytiles - angel opengameart_181
+  - first:
+      213: -3885201096551341369
+    second: 8x8 fantasytiles - angel opengameart_182
+  - first:
+      213: -7730812203552457762
+    second: 8x8 fantasytiles - angel opengameart_183
+  - first:
+      213: -1413371372975036218
+    second: 8x8 fantasytiles - angel opengameart_184
+  - first:
+      213: -9184068446617822537
+    second: 8x8 fantasytiles - angel opengameart_185
+  - first:
+      213: -180086545680577544
+    second: 8x8 fantasytiles - angel opengameart_186
+  - first:
+      213: 8199986897272334581
+    second: 8x8 fantasytiles - angel opengameart_187
+  - first:
+      213: -4911565212379761714
+    second: 8x8 fantasytiles - angel opengameart_188
+  - first:
+      213: 2468713900829561030
+    second: 8x8 fantasytiles - angel opengameart_189
+  - first:
+      213: -3865774179731269846
+    second: 8x8 fantasytiles - angel opengameart_190
+  - first:
+      213: 3830147427080055015
+    second: 8x8 fantasytiles - angel opengameart_191
+  - first:
+      213: -4648354046403326808
+    second: 8x8 fantasytiles - angel opengameart_192
+  - first:
+      213: -1695905458693918756
+    second: 8x8 fantasytiles - angel opengameart_193
+  - first:
+      213: -6583619053790558722
+    second: 8x8 fantasytiles - angel opengameart_194
+  - first:
+      213: -249166452499896306
+    second: 8x8 fantasytiles - angel opengameart_195
+  - first:
+      213: 8513401261566185674
+    second: 8x8 fantasytiles - angel opengameart_196
+  - first:
+      213: -5324638742244545597
+    second: 8x8 fantasytiles - angel opengameart_197
+  - first:
+      213: -4638690144159951887
+    second: 8x8 fantasytiles - angel opengameart_198
+  - first:
+      213: -3919647082679410615
+    second: 8x8 fantasytiles - angel opengameart_199
+  - first:
+      213: -5302087781917201079
+    second: 8x8 fantasytiles - angel opengameart_200
+  - first:
+      213: -952956544375614917
+    second: 8x8 fantasytiles - angel opengameart_201
+  - first:
+      213: 5678144301252078784
+    second: 8x8 fantasytiles - angel opengameart_202
+  - first:
+      213: -7819845036914956444
+    second: 8x8 fantasytiles - angel opengameart_203
+  - first:
+      213: -2132633697326495350
+    second: 8x8 fantasytiles - angel opengameart_204
+  - first:
+      213: -4594637828516425363
+    second: 8x8 fantasytiles - angel opengameart_205
+  - first:
+      213: -7131346993968304385
+    second: 8x8 fantasytiles - angel opengameart_206
+  - first:
+      213: -4067903823475095218
+    second: 8x8 fantasytiles - angel opengameart_207
+  - first:
+      213: -9193857358624086587
+    second: 8x8 fantasytiles - angel opengameart_208
+  - first:
+      213: -3259249680479386821
+    second: 8x8 fantasytiles - angel opengameart_209
+  - first:
+      213: 1536001228463092538
+    second: 8x8 fantasytiles - angel opengameart_210
+  - first:
+      213: 8785762860394127402
+    second: 8x8 fantasytiles - angel opengameart_211
+  - first:
+      213: 207259036296435972
+    second: 8x8 fantasytiles - angel opengameart_212
+  - first:
+      213: -299719433320173228
+    second: 8x8 fantasytiles - angel opengameart_213
+  - first:
+      213: -8218498913716729927
+    second: 8x8 fantasytiles - angel opengameart_214
+  - first:
+      213: 6424138459785767863
+    second: 8x8 fantasytiles - angel opengameart_215
+  - first:
+      213: -2741929150129872174
+    second: 8x8 fantasytiles - angel opengameart_216
+  - first:
+      213: -9206271942371674887
+    second: 8x8 fantasytiles - angel opengameart_217
+  - first:
+      213: -575940030332892502
+    second: 8x8 fantasytiles - angel opengameart_218
+  - first:
+      213: -8820942635626186202
+    second: 8x8 fantasytiles - angel opengameart_219
+  - first:
+      213: 9050141322833814372
+    second: 8x8 fantasytiles - angel opengameart_220
+  - first:
+      213: -8474321429077085253
+    second: 8x8 fantasytiles - angel opengameart_221
+  - first:
+      213: -939310731208015727
+    second: 8x8 fantasytiles - angel opengameart_222
+  - first:
+      213: -9210672075763037592
+    second: 8x8 fantasytiles - angel opengameart_223
+  - first:
+      213: -7396222023640604161
+    second: 8x8 fantasytiles - angel opengameart_224
+  - first:
+      213: -1819062122128731189
+    second: 8x8 fantasytiles - angel opengameart_225
+  - first:
+      213: -8605475864125919912
+    second: 8x8 fantasytiles - angel opengameart_226
+  - first:
+      213: -6252602478360912016
+    second: 8x8 fantasytiles - angel opengameart_227
+  - first:
+      213: -6853391801481886027
+    second: 8x8 fantasytiles - angel opengameart_228
+  - first:
+      213: -6965747101944645505
+    second: 8x8 fantasytiles - angel opengameart_229
+  - first:
+      213: 2735192121362639772
+    second: 8x8 fantasytiles - angel opengameart_230
+  - first:
+      213: 764845359080658089
+    second: 8x8 fantasytiles - angel opengameart_231
+  - first:
+      213: -2835248065042125322
+    second: 8x8 fantasytiles - angel opengameart_232
+  - first:
+      213: 2453867091414631843
+    second: 8x8 fantasytiles - angel opengameart_233
+  - first:
+      213: -8079205681068153042
+    second: 8x8 fantasytiles - angel opengameart_234
+  - first:
+      213: 3287003777629415001
+    second: 8x8 fantasytiles - angel opengameart_235
+  - first:
+      213: 4259336513297168836
+    second: 8x8 fantasytiles - angel opengameart_236
+  - first:
+      213: 591012990685803986
+    second: 8x8 fantasytiles - angel opengameart_237
+  - first:
+      213: 1247055530952922478
+    second: 8x8 fantasytiles - angel opengameart_238
+  - first:
+      213: 406461467594940966
+    second: 8x8 fantasytiles - angel opengameart_239
+  - first:
+      213: 2187999773220963860
+    second: 8x8 fantasytiles - angel opengameart_240
+  - first:
+      213: -4558831707948651742
+    second: 8x8 fantasytiles - angel opengameart_241
+  - first:
+      213: 5426599792810873182
+    second: 8x8 fantasytiles - angel opengameart_242
+  - first:
+      213: 1754130222487703319
+    second: 8x8 fantasytiles - angel opengameart_243
+  - first:
+      213: -9127042897888001181
+    second: 8x8 fantasytiles - angel opengameart_244
+  - first:
+      213: -2659378629650805747
+    second: 8x8 fantasytiles - angel opengameart_245
+  - first:
+      213: 6921438669908286158
+    second: 8x8 fantasytiles - angel opengameart_246
+  - first:
+      213: -4766375513430022569
+    second: 8x8 fantasytiles - angel opengameart_247
+  - first:
+      213: 3363890205768109481
+    second: 8x8 fantasytiles - angel opengameart_248
+  - first:
+      213: -915249256534519140
+    second: 8x8 fantasytiles - angel opengameart_249
+  - first:
+      213: 3415614491824085340
+    second: 8x8 fantasytiles - angel opengameart_250
+  - first:
+      213: -4506942393812667797
+    second: 8x8 fantasytiles - angel opengameart_251
+  - first:
+      213: 336481057748367541
+    second: 8x8 fantasytiles - angel opengameart_252
+  - first:
+      213: -821198135197912241
+    second: 8x8 fantasytiles - angel opengameart_253
+  - first:
+      213: 3816726267581283966
+    second: 8x8 fantasytiles - angel opengameart_254
+  - first:
+      213: 7527371560975363907
+    second: 8x8 fantasytiles - angel opengameart_255
+  - first:
+      213: 8871799768145122363
+    second: 8x8 fantasytiles - angel opengameart_256
+  - first:
+      213: -299979735472401003
+    second: 8x8 fantasytiles - angel opengameart_257
+  - first:
+      213: 416539362465433246
+    second: 8x8 fantasytiles - angel opengameart_258
+  - first:
+      213: 1928416560381265778
+    second: 8x8 fantasytiles - angel opengameart_259
+  - first:
+      213: 8001439540556174543
+    second: 8x8 fantasytiles - angel opengameart_260
+  - first:
+      213: -875742015463071036
+    second: 8x8 fantasytiles - angel opengameart_261
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a49cce85dbbd45abafd77053aaadff5
+      internalID: 8589327083117867701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af0e299eadc481dbcac420865f1df8
+      internalID: -1506176744636508557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a9722e016544fa7b116cf6d3942fb5
+      internalID: 4399244827542894789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429a14433bb634a099caee4c815a8921
+      internalID: 3235467772063980686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4e8e68ff8334580aa23b62ed83b1c9
+      internalID: 672094202408196816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb69a8bcd5847b4b81f99d89f68696
+      internalID: -1907792420098069012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3761b08740c49414ba30d8bc5243dde2
+      internalID: 8557035916079023141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566b4f84ff06746139c8833aec0058ae
+      internalID: -1506876058400639859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b67aba8183f4a128987d255f7db589
+      internalID: 8869340802051811464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e463a2d757f450894131c04ae241f1
+      internalID: 7965259973388747401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065a3467b095647039fedc9d4d80bcd2
+      internalID: -8641831325224996182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f36447709042fb81fe8b133af9e25
+      internalID: 8548087788118253001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163280509db664b4f9b212771dbaa5be
+      internalID: -5381354410516738664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b1ef2edeea04e878a42cb18eaf7a31
+      internalID: -3524749883692262262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e2a27b58ec44c88a937d181e4ce8f
+      internalID: 7354268704916392350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6429416e157451fb132631f00a4e06
+      internalID: -1761087024015374995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62828432ab844249831ef7a706e2a9c
+      internalID: -5011406140929757314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba1d1d9f79b14a2f99dfb1fe29b6c8c
+      internalID: -7647196475377364659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262c068cbaed499e9f766b02ebbec65
+      internalID: 8014452135521474844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c281e94bbb480192be9c7010a31d3
+      internalID: 1427270797856463504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fc74a57b93c43cd8307216f8f9a354
+      internalID: 996589537002387390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad96af122a4545fcb86957085c80f75
+      internalID: 1514880203708752630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f310a1f655474c6487857a94efd17c4
+      internalID: 524344858816325806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94042aa9beca84f869d2d42543d12f6c
+      internalID: 9165952016654382173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a07948ee891e420e9fc4b48ce9abec7
+      internalID: 4236305173016155208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb1f45c66cd14e94ab4e8ae60dd08be
+      internalID: 6717892112231660588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e366d771156b7483dadfb25b83883188
+      internalID: -6970712068317689477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0f7bb409c44c31a2c71a907540f61
+      internalID: -5515412531976499307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7216b88d84d496d88198a680743c11
+      internalID: -5206419663899433396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f220af3a6fc984daab129dffe0cf6c88
+      internalID: -5541624472130835443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc1b146504174e31805ea3e439fccae
+      internalID: 4866108998605977576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7205214c7b442139a0e1ca2df11698
+      internalID: 5102201926332772224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7becce6224634ef9bdf37e253adc1a9
+      internalID: -1834213044150234639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817cbf93529a548099f6d982a526d794
+      internalID: -3944346789447541613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d8957b698ec43b29e42ceb7cd82c9a
+      internalID: 8588445521964627002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac582495eb0b44e5b5d6bc54e1ea40a
+      internalID: -1235246842579239021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c636edbef645c7a5cf21ee46f673b
+      internalID: -8826688001471137823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c526232885414cb466a5ac8881dbb
+      internalID: 5425079093278066107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c12efc4355f4b9d8e8408ca512441c
+      internalID: -4328218733576457042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efc28a7de5d54470a7ddfeedd956907
+      internalID: -719396003956829333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7bcff8305024810be3821e4615b805
+      internalID: 6553013336049437223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86893f7e12d03407ca29227ac0e5eefd
+      internalID: -3568256736517291280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5461a4a87db4e6c9889dfc98932b36
+      internalID: 7672671759152916381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_43
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d4c13c0a7af4bc98a9f40479a3862a
+      internalID: -3542974716737217153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec02acd74a9684c169f8882d64bade16
+      internalID: 2187511794286274393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3b3de16cf4441b860cce844893766
+      internalID: -4014428445087851321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b0dfe022c07459f96a43ea6c3dfde9
+      internalID: -7770140281398193579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa318df992c7410caf9613fca633aed
+      internalID: 7779311094135141229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d0ed10586354fe8beffaab1021b23f
+      internalID: 4688031274856860853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_49
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2b9976beb1e43f9b9604e7287242f3
+      internalID: -4274225637954122981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f14a4ea61644b599713f109b58943b
+      internalID: -5021932421227907693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b331b0acc78409295e98c6501fd4cb
+      internalID: 8083577861765994065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1740d333e084fcab9fa6d18f1374d1
+      internalID: 3280727876631131929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cad1b1d9d8c64c7896ea2dd0729af3c
+      internalID: 3947906462378882775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8ade38a5b5d42c39e42176dd84b3da
+      internalID: -3746159431725786414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_55
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a1584c1ca4482b84e130e4b6998ae
+      internalID: -610732832117002381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6191ab4c0fd5a447ea4c7035c7725394
+      internalID: 7334846121465996249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a4a595dbd4470fae0b92baf615ba6
+      internalID: 6349066473405154758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d365c061b6949ba9b062517765f29d
+      internalID: -6197863426054010698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2de278ff5a54b56bf9236da4eb66e9
+      internalID: 5746634444216482063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b943f9acb31ca4574bd30d3320fdd921
+      internalID: 2034860508940874873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac763c7d00124aa5925ef9d98270409
+      internalID: -6357641312397928019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff542fa95104b7ea047b6ed7229342
+      internalID: -3518754570878015898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e059ab5d1fa4de595fb63570bb22d7
+      internalID: -1790330283677173331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0a5a3e8f954c35998b56b3c5e53e7
+      internalID: 1920469824527467465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_65
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f9fa142f4864d9a854ba7c894819be
+      internalID: 6235609089319156755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ed305b122a4c4285c47d58fa7d274
+      internalID: 1005968905822848037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492512b564c24051b0f013b36b157b9
+      internalID: 4324903461937955402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1cd776b7654a409ae02a650703054
+      internalID: -5392983998140502423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_69
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1097d37e92ae4036bf4df287ceae3be
+      internalID: 652487213622655634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8200209665c94000acabf5a61110392
+      internalID: 3147034107713966608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdf2923a0c764eeaab354bbdbf1f1e9
+      internalID: -3336467630303337100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621daaa8af3ac4802b2760aecc107ec4
+      internalID: -4659454932178209783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fd8500a5aad423ebcbf5da3f60d189
+      internalID: 8641857455399627436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d58b1d87da4cca8d8ada49c2262c5
+      internalID: 7922539322970044609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_75
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05b28a69bf1469098d1b5e19d58f9e
+      internalID: -8754391802752968058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a885b84fbefc4cc9becd6f6c7ec2586
+      internalID: -3125774428749695972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e38e35b32624fd785507b46b3935b9
+      internalID: -8979651412948632136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82092f5850be54429bf66209a840af5e
+      internalID: -8031606256692883397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db305b671ca64470f906dbad1219c0a5
+      internalID: -4557159692305091987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d21b83c9d64a33841ac6191f6f6cc
+      internalID: 5861484227876939574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106823367562e4472bdb661a85c6b10b
+      internalID: 6044334162314054154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25506932dca7145cc9e54b3978633240
+      internalID: -5014404187295572273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_83
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9507c470e12c04057ae6bfbd2e42f495
+      internalID: 3536154838812114346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dd0803cbad24d0a91db73833f7ee43
+      internalID: 6603319451272025334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6fe6d667488440c92bf698be12c481
+      internalID: 1237178212536476179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61008bd01edf42cea188a3f64457ee1
+      internalID: -3863437220539933901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f853517ce2e4181a71b8c8a3c55220
+      internalID: -2494850687758204871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2dac67453e1460e97d76fa8ef8a7a5
+      internalID: 6135582799408569594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_89
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115d244c06457454aa0ec680279dcacd
+      internalID: 5715934700875851853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b54d7f368e64fc9b777dad5027f1ad
+      internalID: -5253559428197936632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543ba77450b6b49a5a0a4d68f2e91ece
+      internalID: -2856674888450706862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b431aa6cb4fd54085a2cfd75e222468a
+      internalID: 9201251405216687213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_93
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa506bd46da247f097c3218d21e83da
+      internalID: -5246921301178551530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6c5dd6ff69f42b7b99bc38277bf402
+      internalID: -561770074042609409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa3800c8be84764be4504530b005ba
+      internalID: 8217551518590361449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd0580cd8aa24470a19c688f9cd3136
+      internalID: 8647861763239259073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f49199f1c2a44a88c2e5bd887a8620
+      internalID: -1063630362797509871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd78e594c5644d39cfa256fdb92de3
+      internalID: -8000481181275887003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb4a32ae0ad4392bb59cacb2589f55
+      internalID: 3886591659710354858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62302175bbe084d4b8b5ad99678269b9
+      internalID: 3298700018012258109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_101
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298cef368041d4a30b691ecdb160faee
+      internalID: 8631950430792126748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f09296b49cb94110a58ac7b230df2db
+      internalID: 4516189032841667080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81300c8996447bca78ff2ac38d58bd
+      internalID: -7211519471844933137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e790732c9b514ebeb1c2210c275f506
+      internalID: 4682031719530734563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10c9a2b42dd342499c3fcbbc7a9675f
+      internalID: 8353871351986562732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_106
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbbe1531c9040c396781cef475eac5
+      internalID: 4932989463724298729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35740bedf35e448a3a56c83509627ba8
+      internalID: 3397132285356523742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_108
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d580faaebcc47d98c0706aa410adf0
+      internalID: -6609618102353039165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3860f73ac1a744337860eef54ce595c9
+      internalID: 2679340415543834863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_110
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e48c733c5a418e9ca2cd07fa80c08
+      internalID: 329417363900418442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a1a1b67cefc4fd792599673ba00451
+      internalID: 8165219380074027300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fb9a5bb474c4d5a99c63db0794e535
+      internalID: -5582186050776960517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e356bc695542d794665782b0392d1
+      internalID: 2352016101809672061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_114
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b455b46d3bf354a508903026e456b143
+      internalID: -5681766262630065334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d8c060928e47949d8b3546c54269b
+      internalID: -8812050450395955520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_116
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb14277656241d5abe721a67aacd73
+      internalID: 2449392212969604438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91bd5d0847544fa6bd582679d2916ac
+      internalID: 8638748456950675432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_118
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e2230682cc49f2b5f05b006df76cc
+      internalID: -7691527474318256078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_119
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c8ffc5bc12b477cb9346baef0e7715
+      internalID: 7359758673509820986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_120
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2e6c6ac88549d48f450b5b9b9d826
+      internalID: -2929496950663449207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_121
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd708c72e970f48f59e4317c864e8281
+      internalID: 4427317684277509936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d2e476122f847369b645df013d37d4
+      internalID: 5683070510603061517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_123
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd14237c87459441b9a376010ca288c9
+      internalID: -9031722382828666072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_124
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2946207971eb498aa22f3d0371a7fec
+      internalID: 8007567405861351493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_125
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad66a1cb17648461aba3b6d42a466fcd
+      internalID: 3794705817101325580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad22bf432007147cba43117d3b091269
+      internalID: 6043853869858310023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3318ad3c9dce49e1876a4bf89847405
+      internalID: -7372574008298125956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_128
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3473b852427f0486e825ec8379231403
+      internalID: 997764498432474088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78dd33dd6c5a4fbfa241d4f6457fab4
+      internalID: -8657726704704711910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b62c10d230b43c395217aa4874ba31
+      internalID: -8716689162830229243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29687fec2b9e4548836696d9432e18b
+      internalID: -4425147027880657577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_132
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd768aafe05c94bdda802dbc2b1a4456
+      internalID: -9012415442237119893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ab9a756da32424195133167d642902
+      internalID: -5182002631898876682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_134
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d541724e5dc34bbbad80cd19652c60c
+      internalID: 4511779790447182584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edec9ad7af7844f488472183e9c378c
+      internalID: -4359815775040216276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_136
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7df9b2344c5447e98c35948ef23c63c
+      internalID: -2549957730990069321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b976b8a99af5c46eab4dc6c2803ac4d2
+      internalID: -4574193856270382516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_138
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872edb6dcf1aa43a19bc24c4312a46cc
+      internalID: -3452554355188491996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef32b821481f4f74b738ce10887a1e2
+      internalID: 1854233235145185259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_140
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285ccb110f31b4963a3c7685d390b8ad
+      internalID: 1929844908901226917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8dcd55611e41bdbcaf670f45310d9
+      internalID: -1343848389140650645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_142
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d32ee9c35154d08a1ec012f32a6df6
+      internalID: -8566570116320937067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4976585281d4d4caeaecc63ebe585eba
+      internalID: -8253256361586314814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_144
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51c02232a0fa4115838d4ea9c6c41e9
+      internalID: -4023407192405739770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72c1bd5739ec45d8b05afc16c8e9c03
+      internalID: -4460221104449075765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_146
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf527236d9d545bca1315b421ac207b
+      internalID: 4892271147398787212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a1742b5475b44d5b33eb293dfde848
+      internalID: -119383631648450766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_148
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c854e2969b0433dab292bab5522650
+      internalID: -2092324716981448528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_149
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f9421f7bd3049c695114a9b4c3a366
+      internalID: 5396067852914635757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_150
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb47f62f97445109691b01d611e285
+      internalID: 882901016730001548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be39235e3a4241fdb98b4bb749879e4
+      internalID: 6448259852520298057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445fbf3872d341f6ad0a0afb8f35c72
+      internalID: 7182369463891907218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_153
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6fcd3043f0a42b299361c8f4b391b4
+      internalID: -5718524836696780811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84e7b8f7a42446238b80da515ad0988
+      internalID: 426135631475052669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_155
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2cf98606a5455d87014d11ac0ec72
+      internalID: -1277023448213212915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b19b61a0e34b6cbeb9ab9bdbb9b25
+      internalID: 6169279037380278889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_157
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf8a6e10d284958b48f41363ac65c4
+      internalID: 5859743608582411585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_158
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f250bb11febf4096a44eb34bce3f21f
+      internalID: -4516947056216173872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_159
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db5290a29fce4739b7c2521b334154d
+      internalID: 1177096902685500407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc41d90b7bc4176b08383c069eada2
+      internalID: -5786790951266524026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_161
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646e55011353486494131dccf3b7970
+      internalID: 3149712659896946615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_162
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de699d3e5f374e69b9227f52ebab74a
+      internalID: -7346205266106964795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_163
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fb99e8e626b4df2a417c6f793efe1d
+      internalID: 5084443064953740812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d6906f6aae04daf91ef3b98e65f06d
+      internalID: 3400166980408008887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_165
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8054356a86e48ecbe92cb0f426eeb5
+      internalID: 6585704292649398315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_166
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd1620c6059f477ab5c274432bdc33f
+      internalID: -8681153560625877468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_167
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dfcda01a21c40e3b544e676dde4b3a
+      internalID: -3653505981117718492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_168
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987791bbd59ac4002ba3ea46a3f033f5
+      internalID: -2569553452049665429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf2d081b7e304fbc92bc8394a8b3df0
+      internalID: 7078619832689598145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_170
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c9bb6b056d34093b3084679f47dcd5
+      internalID: 9187558532276252228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23badb289bf774a829c17ab56775982d
+      internalID: -8519527898176216973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_172
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2cf8dfb6c5942c3bdf22e1cda81d07
+      internalID: -3310113355966214332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_173
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1959532c660444ffe9694d3023505ddb
+      internalID: -6268583865756960293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_174
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351adb7ac567d443cb95b8be5e190f10
+      internalID: -5046435239397579504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2b0ca02e24540939170b576ec1d127
+      internalID: 193519878000218065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25600d6a56234d2fac13d46a7a60ae7
+      internalID: -5545484138133270653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_177
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4a8a58ff284da1ac02edca1e35d01
+      internalID: -3127983089623562612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c51a6ed23d7492e9192e31b6eec7ff
+      internalID: 5027994022440704639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_179
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237c6e0ebccb8440a8eb23b57ed919f2
+      internalID: 1635073323738885634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_180
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e985876e4444849a659ffb9edd22cf
+      internalID: 4284843909872892230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_181
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6620de9bc344b548d134e419c23261
+      internalID: 5455343529224707707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_182
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea36f6125a8490aab469c43a53e03a
+      internalID: -3885201096551341369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_183
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798df91a38c440debd64fd400c08de1
+      internalID: -7730812203552457762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b624e35390d4151ad2015398ad4e6b
+      internalID: -1413371372975036218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_185
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8383c0b8c944d54841d797b3a4ff4c
+      internalID: -9184068446617822537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_186
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f74c36df7849a2a7b41ea457d3842
+      internalID: -180086545680577544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_187
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4325a482e355f45ff9e48555d9516eae
+      internalID: 8199986897272334581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03889365c13b94c01a1ef18386fce7a6
+      internalID: -4911565212379761714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_189
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a6a7eb75ce74f1f8852ecb5a7dc395
+      internalID: 2468713900829561030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_190
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88482df5a06d645a6b1ca4457dac960b
+      internalID: -3865774179731269846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_191
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a98c580f05d8456ab8bc770a43d907f
+      internalID: 3830147427080055015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_192
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d625c4e1b65b43afa9be6f338a22e90
+      internalID: -4648354046403326808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_193
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4baf46bb7b44b696fbfab2aabdbde
+      internalID: -1695905458693918756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_194
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd1d5378bb434ba8a9216064d7fd974
+      internalID: -6583619053790558722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee631299f0fc4b7e9db54c79b0a6d46
+      internalID: -249166452499896306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_196
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c7ac807d9be48958b8e9f323659f57
+      internalID: 8513401261566185674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_197
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26d81a43d7f43439e12b06f57bf5b9
+      internalID: -5324638742244545597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f19dd6c14f0443d98029e50c819cff
+      internalID: -4638690144159951887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_199
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c91e45f06f9446db80539b1a9d8ec67
+      internalID: -3919647082679410615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_200
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50e34bc500e482d8ab3b7862fda85d
+      internalID: -5302087781917201079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_201
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc39e3276f94243bdb43e2951cc747
+      internalID: -952956544375614917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_202
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1334b019e9b49398e0d220220c2b3c
+      internalID: 5678144301252078784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_203
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab46c3380334a29a79e1750dbccebc
+      internalID: -7819845036914956444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_204
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09988d879e83b40a59f2545c409ac759
+      internalID: -2132633697326495350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_205
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512ce3ee19a84b9ebcc5bababaa4dc7
+      internalID: -4594637828516425363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4fd4d97c05b4770980da11a152cc80
+      internalID: -7131346993968304385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_207
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d3dfe60d40446a9aaf3228bb51fb7f
+      internalID: -4067903823475095218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_208
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5880ffdef186b4fabb98a5d75c9b7e3f
+      internalID: -9193857358624086587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_209
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3017b4a586b47ddb42aa56e253aabb
+      internalID: -3259249680479386821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06ef3afe1a0460a8de367436170965
+      internalID: 1536001228463092538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_211
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48d90a8a46fb4b308f8c1d80814b052
+      internalID: 8785762860394127402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_212
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f078b9a9eb3439a99bf7a47293fce7
+      internalID: 207259036296435972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_213
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c741c83ab7a422e87873d7667aeb22
+      internalID: -299719433320173228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_214
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5804decce10b4208b50220a78076e40
+      internalID: -8218498913716729927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_215
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a17570bd7648e7942199522e3ee6a
+      internalID: 6424138459785767863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_216
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee7e5606dacb4dfdb8214f2c30362b7
+      internalID: -2741929150129872174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_217
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b016b646f34aa48cbc3c50741e460
+      internalID: -9206271942371674887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_218
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8718c449c9dc5403babcffc529b18192
+      internalID: -575940030332892502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_219
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e4c567c2106482fbe5a7accfa29521
+      internalID: -8820942635626186202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_220
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c9b8b59f484525accbabc1f4d2066
+      internalID: 9050141322833814372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f7764b77d945a4911c30394d30274
+      internalID: -8474321429077085253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_222
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab569c179b75f428ea9b0e3f9d240d9a
+      internalID: -939310731208015727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_223
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87803f4c0a2f4e3faf286b30f47ee92
+      internalID: -9210672075763037592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_224
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431c6ef1364a4abbb9b09fe51a1a997
+      internalID: -7396222023640604161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2362c032c19145729fc5c29231b9e38
+      internalID: -1819062122128731189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_226
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0f7e645ee434c69b1e9aba794f20a2
+      internalID: -8605475864125919912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69678e47c4254b2486075f852d7ef5f
+      internalID: -6252602478360912016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_228
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8744794b7054943778ce541f54a0ba3f
+      internalID: -6853391801481886027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_229
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad30fcfe03925469db27399789f215eb
+      internalID: -6965747101944645505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_230
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a50c924ec9044877b56f4ab5c69586d
+      internalID: 2735192121362639772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_231
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc2ad7bc2a04107a0df402f120c108
+      internalID: 764845359080658089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_232
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2faad0918714413bb1c4114aab03d1
+      internalID: -2835248065042125322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_233
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908542c492933427eb4baca1b5ab3e86
+      internalID: 2453867091414631843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_234
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221b768eccea14d1ea2093f7e214ab87
+      internalID: -8079205681068153042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_235
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acb895a7c7c44f0d883d3467aa85e0c
+      internalID: 3287003777629415001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_236
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd51e67e86bd440fa548885ff0d8f56
+      internalID: 4259336513297168836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_237
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c3227746d34aac9d93703ed6a0744
+      internalID: 591012990685803986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_238
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c030c436441c46158f09b9a042104ee
+      internalID: 1247055530952922478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_239
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb4b3a13139447594a2b6df6c5fd30
+      internalID: 406461467594940966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_240
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6a6ba3a4394a1f99ac65f966c46e9
+      internalID: 2187999773220963860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_241
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c6b88da30074ae797dbef8c45b7300
+      internalID: -4558831707948651742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_242
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31b29be988334939a768dd2a1808a56
+      internalID: 5426599792810873182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ee6705233834db68461bdf483f9413
+      internalID: 1754130222487703319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_244
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4ed94db3c8b46b4a4d1cf6e6866e8b
+      internalID: -9127042897888001181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_245
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8ca32a8ce2d4a11852941e5c6cee5b
+      internalID: -2659378629650805747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_246
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f425de8c082dd4616bffc9c2cc246fa4
+      internalID: 6921438669908286158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_247
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707717aaa04b44faa1c6625ea08c7a7
+      internalID: -4766375513430022569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_248
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37a21685134b47149210c4341b155ef
+      internalID: 3363890205768109481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_249
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28c59bcee951491fadcdc994cb034f4
+      internalID: -915249256534519140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_250
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e088999f51c6b435eb8d97f47a3090af
+      internalID: 3415614491824085340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_251
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6cd64086dc5442aa2aa5adc78f8c14
+      internalID: -4506942393812667797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_252
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b651c4720111e49e28cdee016ee0e5ae
+      internalID: 336481057748367541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_253
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc168249dff48f2a7ef6ff3bcb892b
+      internalID: -821198135197912241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_254
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eb424b4393a4198a39dc19854a9479
+      internalID: 3816726267581283966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_255
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cf662bc3ecd42439809517ac1c60fa
+      internalID: 7527371560975363907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_256
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef9d5cd82658492eb6c688b55158767
+      internalID: 8871799768145122363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_257
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a3a44579ff4acca5e7d6f1a4a93f9
+      internalID: -299979735472401003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_258
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8dbabab7da7419188693c018e785a8
+      internalID: 416539362465433246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_259
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1cf776e2414d8191c78af26c92c6e
+      internalID: 1928416560381265778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_260
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7186d1730bb4c5fbdbc30ee1bb07c2
+      internalID: 8001439540556174543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8x8 fantasytiles - angel opengameart_261
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a9bf2a421104ed6ba9cd6699f8ffb9
+      internalID: -875742015463071036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

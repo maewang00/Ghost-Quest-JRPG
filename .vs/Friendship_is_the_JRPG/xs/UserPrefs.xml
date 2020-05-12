@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{A161E4A8-0027-DCEB-FC38-B03C79653A6A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Battle/BattleManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/World/Skill.cs" Line="62" Column="24" IsPinned="True" />
+      <File FileName="Assets/Scripts/Battle/Character.cs" Line="259" Column="1" />
+      <File FileName="Assets/Scripts/Battle/BattleManager.cs" Line="632" Column="57" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/CreatureType.cs" />
+      <File FileName="Assets/Scripts/Battle/BattleAction.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8834cf6f-6597-4f92-b0e0-3850701ead8e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

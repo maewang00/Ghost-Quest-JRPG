@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1512df6e145ab3499df5eafb6ba4599, type: 3}
+  m_Name: Sliming Six
+  m_EditorClassIdentifier: 
+  Enemies:
+  - {fileID: 11400000, guid: 65af3b7495900be4dbd7b10e9bf02e6d, type: 2}
+  - {fileID: 11400000, guid: a9389aea62a5acd47a72acb4e68ea61b, type: 2}
+  - {fileID: 11400000, guid: 806364daecc579d44936e2d718940939, type: 2}
+  - {fileID: 11400000, guid: a9389aea62a5acd47a72acb4e68ea61b, type: 2}
+  - {fileID: 11400000, guid: 65af3b7495900be4dbd7b10e9bf02e6d, type: 2}
+  - {fileID: 11400000, guid: 65af3b7495900be4dbd7b10e9bf02e6d, type: 2}

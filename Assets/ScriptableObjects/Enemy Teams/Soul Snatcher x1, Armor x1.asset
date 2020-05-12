@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1512df6e145ab3499df5eafb6ba4599, type: 3}
+  m_Name: Soul Snatcher x1, Armor x1
+  m_EditorClassIdentifier: 
+  Enemies:
+  - {fileID: 11400000, guid: 022cb0d92d9a74bbfb3f9e75fabf3cbf, type: 2}
+  - {fileID: 11400000, guid: 6edf63004c1bc4a74841449e8f1ac162, type: 2}
